@@ -5,9 +5,9 @@ banner:
   bg_image: images/william-moreland-zmfikyue8qi-unsplash.jpg
   icon: ''
   title: Make Better Coffee With Less Hassle
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: With the Aeropress, you can make coffee just the way you like without all
+    the clutter.
   button:
     enable: true
-    label: Explore Us
+    label: See How
     link: "#services"
