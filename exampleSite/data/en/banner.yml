@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: william-moreland-zmfikyue8qi-unsplash.jpg
+  bg_image: images/william-moreland-zmfikyue8qi-unsplash.jpg
   icon: ''
   title: Experience the new reality
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
