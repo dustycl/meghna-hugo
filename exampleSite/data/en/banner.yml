@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image_webp: https://res.cloudinary.com/dustinl/image/upload/v1622746674/william-moreland-ZmFikYUe8QI-unsplash_yve5vp.webp
   bg_image: images/william-moreland-zmfikyue8qi-unsplash.jpg
-  icon: ''
+  icon: ti-calendar
   title: Make Better Coffee With Less Hassle
   content: With the Aeropress, you can make coffee just the way you like without all
     the clutter.
